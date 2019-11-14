@@ -1,1 +1,2 @@
 02 another test file
+05 check differences in staged copy and repo
